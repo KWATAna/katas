@@ -11,3 +11,5 @@ working on positioning, etc...
 ## Local development
 
 using other branch for other shit
+
+## Checking diffing
